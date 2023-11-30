@@ -3,6 +3,8 @@ Rencana Projek SELI
 - Javascript
 * ES6
 * Framework javascript
-- Struktur Data Dasar
+^ Angular
+^ React
 - PHP Frameworks
+^ Laravel
 - Interview
