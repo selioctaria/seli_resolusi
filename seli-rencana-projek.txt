@@ -1,0 +1,8 @@
+Rencana Projek SELI
+
+- Javascript
+* ES6
+* Framework javascript
+- PHP Frameworks
+- Interview
+- 
